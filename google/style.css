@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.google {
+    width: 590px;
+    margin: 100px auto;
+    text-align: center;
+}
+.google img {
+    width: 275px;
+    height: 158px;
+    display: block;
+    margin: 0px auto;
+}
+.google input {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 0px 0px 25px;
+    border-radius: 20px;
+}
+.google button {
+    padding: 10px 20px;
+    margin-right: 5px;
+}
